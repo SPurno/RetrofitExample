@@ -1,5 +1,8 @@
 # RetrofitExample
 Android retrofit and http example application development
+=========================================================
+[![build](
+https://img.shields.io/travis/rust-lang/rust/master.svg)](https://spurno.github.io)
 
 # Take a look 
 ![alt text](https://raw.githubusercontent.com/SPurno/RetrofitExample/master/screenshots/snap.JPG)
